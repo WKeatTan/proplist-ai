@@ -1,0 +1,34 @@
+{
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "confirm": "Confirm",
+    "back": "Back",
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "success": "Done!",
+    "copy": "Copy",
+    "copied": "Copied!",
+    "upgrade": "Upgrade",
+    "learnMore": "Learn more",
+    "featureUnavailable": "This feature is temporarily unavailable. Please try again later."
+  },
+  "nav": {
+    "listings": "Listings",
+    "billing": "Billing",
+    "settings": "Settings",
+    "logout": "Log out"
+  },
+  "auth": {
+    "login": "Log in",
+    "register": "Sign up",
+    "email": "Email",
+    "password": "Password",
+    "rememberMe": "Remember me for 30 days",
+    "forgotPassword": "Forgot password?",
+    "loginWithGoogle": "Continue with Google",
+    "loginWithFacebook": "Continue with Facebook"
+  }
+}
