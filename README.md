@@ -21,7 +21,7 @@ Generate platform-optimised copy for 7 platforms in 30 seconds.
 ### 1. Clone and install
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/proplist-ai.git
+git clone https://github.com/WKeatTan/proplist-ai.git
 cd proplist-ai
 npm install
 ```
@@ -48,13 +48,13 @@ supabase/migrations/005_notifications.sql
 
 ```bash
 npm run dev
-# → http://localhost:3000
+# → http://localhost:4000
 ```
 
 ### 5. Set up Stripe webhook (local testing)
 
 ```bash
-stripe listen --forward-to localhost:3000/api/webhooks/stripe
+stripe listen --forward-to localhost:4000/api/webhooks/stripe
 # Copy the whsec_xxx value to .env.local STRIPE_WEBHOOK_SECRET
 ```
 

@@ -40,7 +40,7 @@ INSERT INTO cms_content (key, type, value_en, value_zh, label, group_name, sort_
   ('banner.promo_text',      'text',    '"🎉 14-day free trial!"',              '"🎉 14天免费试用！"',         'Promo Text',  'banner',   2),
   ('banner.promo_link',      'text',    '"/register"',                          '"/register"',                'Promo Link',  'banner',   3),
   ('banner.promo_color',     'text',    '"#f59e0b"',                            '"#f59e0b"',                  'Promo Color', 'banner',   4),
-  ('legal.about_us',         'richtext','\"<p>About PropList AI...</p>\"",      '"<p>关于 PropList AI...</p>"','About Us',    'legal',    1),
+  ('legal.about_us',         'richtext','"<p>About PropList AI...</p>"',        '"<p>关于 PropList AI...</p>"','About Us',    'legal',    1),
   ('legal.terms',            'richtext','"<p>Terms & Conditions...</p>"',       '"<p>使用条款...</p>"',        'Terms',       'legal',    2),
   ('legal.privacy',          'richtext','"<p>Privacy Policy...</p>"',           '"<p>隐私政策...</p>"',        'Privacy',     'legal',    3),
   ('contact.email',          'text',    '"hello@proplistai.com"',               '"hello@proplistai.com"',     'Email',       'contact',  1),
